@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tailormadewebdevelopment.com/static/css/main.005a1004.chunk.css",
+    "main.js": "/tailormadewebdevelopment.com/static/js/main.71d5ffdc.chunk.js",
+    "main.js.map": "/tailormadewebdevelopment.com/static/js/main.71d5ffdc.chunk.js.map",
+    "runtime-main.js": "/tailormadewebdevelopment.com/static/js/runtime-main.64864c9a.js",
+    "runtime-main.js.map": "/tailormadewebdevelopment.com/static/js/runtime-main.64864c9a.js.map",
+    "static/js/2.3edd0436.chunk.js": "/tailormadewebdevelopment.com/static/js/2.3edd0436.chunk.js",
+    "static/js/2.3edd0436.chunk.js.map": "/tailormadewebdevelopment.com/static/js/2.3edd0436.chunk.js.map",
+    "index.html": "/tailormadewebdevelopment.com/index.html",
+    "static/css/main.005a1004.chunk.css.map": "/tailormadewebdevelopment.com/static/css/main.005a1004.chunk.css.map",
+    "static/js/2.3edd0436.chunk.js.LICENSE.txt": "/tailormadewebdevelopment.com/static/js/2.3edd0436.chunk.js.LICENSE.txt",
+    "static/media/undraw_under_construction_46pa.322a13f5.svg": "/tailormadewebdevelopment.com/static/media/undraw_under_construction_46pa.322a13f5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64864c9a.js",
+    "static/js/2.3edd0436.chunk.js",
+    "static/css/main.005a1004.chunk.css",
+    "static/js/main.71d5ffdc.chunk.js"
+  ]
+}
